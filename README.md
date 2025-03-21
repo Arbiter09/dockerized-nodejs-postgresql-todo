@@ -140,7 +140,7 @@ docker system prune
 
 ### 🔗 Access the App:
 
-Open **http://localhost:5003** (or `localhost:3000` if changed) in your browser to see the frontend. You can **register, log in, and manage your todos**.
+Open **http://localhost:5000** (or `localhost:3000` if changed) in your browser to see the frontend. You can **register, log in, and manage your todos**.
 
 ---
 
